@@ -62,7 +62,7 @@
                         alt> </a>
             </li>
             <li>
-                <p>Email: Lucarebour12@gmail.com</p>
+                <p>Email: Luca.rebour28@gmail.com</p>
             </li>
         </ul>
     </p>
